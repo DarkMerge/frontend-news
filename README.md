@@ -1,6 +1,6 @@
-###Telegram channels
+### Telegram channels
 
-####Front End
+#### Front End
 
 - [Веб-стандарты](https://t.me/webstandards_ru) - Ежедневные новости и события фронтенда
 - [ВFor Web](https://t.me/forwebdev) - новости фронтенда
